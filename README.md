@@ -1,4 +1,4 @@
-# tensorflow_project
+# Handwriting recognition with NN
 Project Handwriting recognition with NN,
 including forward.py that defines forward propagation, 
 backward.py that trains the NN net and save checkpoints, 
